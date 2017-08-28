@@ -1,0 +1,38 @@
+--> Catalogo de filmes 
+
+ -> Sobre o filme:
+- Nome
+- Gênero
+- Duração
+- Ano
+- Atores Principais
+- Diretor
+- Resumo/Descrição
+
+ -> Sobre Atores
+- Nome
+- Idade (ano nasc)
+- Cidade natal
+- Indicações(?)
+- Filmes
+
+
+--> Métodos:
+
+//- inserirFilme
+//- inserirAtorFilme
+//- excluirFilme
+//- buscarFilme
+//- excluirAtorFilme
+//- contemFilme
+//- contemAtorFilme
+//- contemAtor
+//- excluirAtor
+//- buscarAtor
+//- imprimirFilme
+//- imprimirTodosOsFilmes
+//- imprimirTodosAtores
+//- imprimirAtoresDoFilme
+//- imprimirFilmesDosAtores
+//- buscarFilmePorGenero
+- adicionarAtor
